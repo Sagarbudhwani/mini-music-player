@@ -12,8 +12,8 @@ new Vue({
         {
           name: "Waqt ki Baatein",
           artist: "Dream Note",
-          cover: "https://a10.gaanacdn.com/images/albums/4/2118604/crop_480x480_2118604.jpg",
-          source: "/mp3/Waqt_Ki_Baatein_Dream_Note.mp3",
+          cover: "https://raw.githubusercontent.com/Sagarbudhwani/mini-music-player/main/img/Waqt%20Ki%20Baatein.jpg",
+          source: "https://github.com/Sagarbudhwani/mini-music-player/blob/main/mp3/Waqt_Ki_Baatein_Dream_Note.mp3?raw=true",
           url: "https://www.youtube.com/watch?v=b-K4oDRk04M",
           favorited: false
         }
