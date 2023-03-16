@@ -13,7 +13,7 @@ new Vue({
           name: "Waqt ki Baatein",
           artist: "Dream Note",
           cover: "https://raw.githubusercontent.com/Sagarbudhwani/mini-music-player/main/img/Waqt%20Ki%20Baatein.jpg",
-          source: "https://github.com/Sagarbudhwani/mini-music-player/blob/main/mp3/Waqt_Ki_Baatein_Dream_Note.mp3?raw=true",
+          source: "https://raw.githubusercontent.com/Sagarbudhwani/mini-music-player/main/mp3/Waqt_Ki_Baatein_Dream_Note.mp3",
           url: "https://www.youtube.com/watch?v=b-K4oDRk04M",
           favorited: false
         }
